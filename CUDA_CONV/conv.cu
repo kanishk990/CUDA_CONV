@@ -1,9 +1,3 @@
-/*
- * @Author: Kaustav Vats 
- * @Roll-Number: 2016048 
- * @Date: 2019-01-22 23:03:14 
- * @Ref: https://gist.github.com/wh5a
- */
 
 #define STB_IMAGE_IMPLEMENTATION
 #define STB_IMAGE_WRITE_IMPLEMENTATION
