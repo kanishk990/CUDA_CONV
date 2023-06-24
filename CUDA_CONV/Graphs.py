@@ -2,6 +2,8 @@
 
 import matplotlib.pyplot as plt
 
+
+
 # In[]
 x = [64, 128, 256, 512, 1024, 2048]
 y = [
